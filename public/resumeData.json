@@ -1,18 +1,18 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Japheth Wilson",
+    "occupation": "Senior Software Engineer & Technical Lead",
+    "description": "Passionate about building scalable web applications with modern frameworks",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hello! I'm Japheth, a dedicated software engineer with over 4 years of professional experience. I specialize in building robust and efficient web applications using React, Node.js, and other cutting-edge technologies. Throughout my career, I've collaborated with both startups and enterprise-level organizations to develop scalable solutions that solve real business problems. My expertise in frontend and backend development has allowed me to create seamless user experiences while maintaining clean, maintainable codebases. I'm particularly passionate about mentoring junior developers and sharing my knowledge through technical workshops and community events. My approach combines technical excellence with strong communication skills, making me an effective team player who can translate complex requirements into elegant solutions.",
+    "contactmessage": "I'm always open to discussing new opportunities and innovative projects!",
+    "email": "japheth.wilson@techpro.com",
+    "phone": "+44 2098765432",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Tom Mboya Avenue",
+      "city": "Nairobi",
+      "state": "Nairobi, Kenya",
+      "zip": "EC2A 4BT"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
@@ -45,63 +45,81 @@
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "Technical Proficiencies & Core Competencies",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Imperial College London",
+        "degree": "Master of Science, Computer Engineering",
+        "graduated": "June 2015",
+        "description": "Graduated with Distinction; Thesis focused on distributed systems architecture"
+      },
+      {
+        "school": "University of Manchester",
+        "degree": "Bachelor of Science, Computer Science",
+        "graduated": "July 2013",
+        "description": "First Class Honours; Recipient of the Outstanding Student Achievement Award"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "TechInnovate Solutions",
+        "title": "Senior Software Engineer & Technical Lead",
+        "years": "March 2021 - Present",
+        "description": "Leading a cross-functional team of 8 developers to build enterprise-grade web applications. Implementing CI/CD pipelines and architectural design patterns that improved deployment efficiency by 40%. Mentoring junior developers and conducting code reviews to ensure high code quality standards."
+      },
+      {
+        "company": "DigitalSphere Inc",
+        "title": "Full Stack Developer",
+        "years": "January 2018 - February 2021",
+        "description": "Developed and maintained multiple client-facing applications using React, Node.js, and AWS. Collaborated with UX designers to implement responsive interfaces that increased user engagement by 35%. Optimized database queries resulting in a 25% improvement in application performance."
+      },
+      {
+        "company": "WebScape Technologies",
+        "title": "Frontend Developer",
+        "years": "June 2015 - December 2017",
+        "description": "Constructed responsive user interfaces using modern JavaScript frameworks. Participated in agile development cycles and contributed to sprint planning and retrospectives. Implemented unit and integration tests that reduced bug reports by 30%."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "95%"
       },
       {
-        "name": "Python",
+        "name": "Node.js",
+        "level": "90%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "92%"
+      },
+      {
+        "name": "AWS/Cloud Infrastructure",
         "level": "85%"
       },
       {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "Web Development",
-        "level": "95%"
+        "name": "CI/CD & DevOps Practices",
+        "level": "88%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
-        "category": "",
+        "title": "Enterprise Resource Management System",
+        "category": "Web Application",
         "image": "snapchat.jpg",
         "url": "https://youtu.be/1kGISk5ft2w"
       },
       {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
+        "title": "E-commerce Platform with AI Recommendations",
+        "category": "Full Stack",
         "image": "gmail.jpg",
         "url": "https://youtu.be/b7nrXjS6Dqs"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
+        "title": "Financial Data Visualization Dashboard",
+        "category": "Data Analytics",
         "image": "linkedin.jpg",
         "url": "https://youtu.be/QaYts9sPmcY"
       }
@@ -110,12 +128,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Japheth is an exceptional technical leader who consistently delivers high-quality solutions. His ability to understand complex business needs and translate them into elegant technical implementations is impressive.",
+        "user": "Sarah Chen, CTO at TechInnovate"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Working with Japheth has been transformative for our team. His technical expertise combined with his mentorship skills has elevated our entire development process and output quality.",
+        "user": "Michael Rodriguez, Product Manager"
       }
     ]
   }
